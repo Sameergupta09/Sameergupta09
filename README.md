@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameergupta09&label=Profile%20views&color=0e75b6&style=flat" alt="sameergupta09" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sameergupta09/profolio-web.git](https://github.com/Sameergupta09/profolio-web.git)
 
-- 💬 Ask me about **Android , MEAN**
 
 - 📫 How to reach me **sameergupta756@gmail.com**
 
