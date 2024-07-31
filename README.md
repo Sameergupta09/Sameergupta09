@@ -5,15 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sameer_gupta09" target="blank"><img src="https://img.shields.io/twitter/follow/sameer_gupta09?logo=twitter&style=for-the-badge" alt="sameer_gupta09" /></a> </p>
 
-- 🌱 I’m currently learning **Networking**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sameergupta09/profolio-web.git](https://github.com/Sameergupta09/profolio-web.git)
-
-- 💬 Ask me about **Networking , cryptography**
-
-- 📫 How to reach me **sameergupta756@gmail.com**
-
-- ⚡ Fun fact **I THINK I AM HACKER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
